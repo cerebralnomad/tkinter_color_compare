@@ -1,5 +1,5 @@
 # tkinter_color_compare
-Compare up to four colors available to tkinter on Ubuntu
+Compare up to four colors available to tkinter on Ubuntu (558 choices)
 
 This is a companion app to https://github.com/cerebralnomad/tkinter_color_demo
 Where it previews a single color at a time, wit hthis one you can select four colors
