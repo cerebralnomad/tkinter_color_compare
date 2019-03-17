@@ -22,7 +22,7 @@ When first opened, this screen is displayed:
 Use the four drop down boxes to choose the color for each of the four panels.  
 Click the 'Change Colors' button to apply the changes.
 
-![Screenshot](/screenshots/color_demo2.png?raw=true "Screenshot")
+![Screenshot](/screenshots/color_compare2.png?raw=true "Screenshot")
 
 Select new colors to compare or click 'Exit' to quit the program.
 
